@@ -24,16 +24,16 @@
 					<nav id="nav">
 						<ul>
 							<li style="white-space: nowrap;"><a href="./index.html" class="button">Home</a></li>
-							<li style="white-space: nowrap;"><a href="https://goo.gl/CbLcW4" class="button" target="_blank">Abstract Submission</a></li>
+							<!-- <li style="white-space: nowrap;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdFIvWoujGpPrLSRL0BETc0xRlAgVDVMWBv9GV9wwfWQcPfuA/viewform" class="button" target="_blank">Abstract Submission</a></li> -->
 						 <li style="white-space: nowrap;"><a href="./registration.html" class="button">Registration</a></li>
 						 <li style="white-space: nowrap;"><a href="./participants.html" class="button">List of Participants</a></li>
-
+						  
 							<li class="opener" style="user-select: none; cursor: pointer; white-space: nowrap;">
 							  <a href="./programme.html" class="button">Programme</a>
 
 							<ul class="" style="user-select: none; display: none; position: absolute;">
 							    <li style="white-space: nowrap;"><a href="./programme.html" style="display: block;">Scientific Programme</a></li>
-							    <li style="white-space: nowrap;"><a href="./excursion.html" style="display: block;">Other Activities</a></li>
+							    <li style="white-space: nowrap;"><a href="./excursion.html" style="display: block;">Excursion</a></li>
 							  </ul></li>
 
 							<li style="white-space: nowrap;"><a href="./dates.html" class="button">Important Dates</a></li>
@@ -53,16 +53,8 @@
 						 <h2>Registration</h2>
 						 <h3><font color="red">Registration is now open</font></h3>
 
- 						<p>Conference
-	    registration and online payment are now available on the
-	    following link. Please register as soon as you know you
-	    can attend.  The payment deadline has now been extended to
-	    Monday <b>28th of August.</b>  </p>
- 						<center><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdFIvWoujGpPrLSRL0BETc0xRlAgVDVMWBv9GV9wwfWQcPfuA/viewform" class="button" target="_blank">Registration</a></p></center>
-<p>Standard registration for those attending the workshop sessions costs AU$550 (equivalent to £335, US$435 or 374 euros as of Saturday 22nd July).  This includes lunches on the four days of talks, the opening reception and the conference dinner.  This is discounted to AU$475 for current postdoctoral researchers and AU$200 for current students.  Registraion for accompanying persons and those not attending the sessions costs AU$200 to include the opening reception and conference dinner.</p>
-
-
-						<center><p><a href="https://shop.monash.edu/with-one-hand-waving-free-conference.html" class="button" target="_blank">Payment</a></p></center>
+ 						<p>Conference registration and online payment are now available on the following link. Please register before the <b>28th of July.</b>  </p>
+ 						<center><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdFIvWoujGpPrLSRL0BETc0xRlAgVDVMWBv9GV9wwfWQcPfuA/viewform" class="button" target="_blank">Registration &amp Payment</a></p></center>
 
 					  <b>Pre-Registration:</b>
 						<p>If you haven't pre-registered for the conference yet, please do so on the following link</p>

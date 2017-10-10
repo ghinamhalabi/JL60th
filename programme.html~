@@ -27,7 +27,7 @@
 							<li style="white-space: nowrap;"><a href="https://goo.gl/CbLcW4" class="button" target="_blank">Abstract Submission</a></li>
 						 <li style="white-space: nowrap;"><a href="./registration.html" class="button">Registration</a></li>
 						 <li style="white-space: nowrap;"><a href="./participants.html" class="button">List of Participants</a></li>
-
+						  
 							<li class="opener" style="user-select: none; cursor: pointer; white-space: nowrap;">
 							  <a href="./programme.html" class="button">Programme</a>
 
@@ -50,21 +50,60 @@
 						<h4>29th October - 4th November 2017, Port Douglas, Queensland, Australia</h4>
 					</header>
 
-					<div id="location" class="box">
-					  <h2>Conference Venue</h2>
+					<div id="abstract" class="box">
+					  <h2>Conference Programme</h2>
+					  <!-- <p>The scientific programme consists of special review sessions as listed on the <a href="./JL60th.htm">home page</a>. Please note that invited talks are 25+5 minutes and contributed talks are 15+5 minutes.</p> -->
 
-<p><h4>The conference will be held at <a href="https://www.qthotelsandresorts.com/port-douglas/" target="_blank"> <font color="blue"> QT Port Douglas resort.</font></a> <br>
-To benefit from a discount, you need to book directly either by email to <a href="mailto:reservations_qtportdouglas [at] evt.com" rel="nofollow" onclick="this.href='mailto:'+'reservations_qtportdouglas'+'@'+'evt.com'"><font color="blue">reservations_qtportdouglas@evt.com</font></a> or telephone to <font color="blue">+61 7 4099 8900.</font> <br>
-<br>
-Make it clear that you are attending the Astronomy Conference at the following rates, including breakfast. <br>
-<br>
-Resort Room Single/Twin share <b>$180</b><br>
-1 Bedroom Villa       <b>$210</b><br>
-2 Bedroom Villa       <b>$360</b><br><h4>
-<br>
-<h2>Transport to and from Cairns Airport</h2>
-The hotel can arrange for transport to and from Cairns airport.  Please let us know the arrival and departure times and flight numbers of your flights into and from Cairns and we shall try to coordinate groups for transport. 
-<!-- Footer -->
+					  <!-- <p>A PDF of the abstracts for the <b>TALKS</b> is available <a href="images/STARS2016_talk_abstracts.pdf" target="_blank">here</a>.</p> -->
+
+					  <!-- <p>A PDF of the abstracts for the <b>POSTERS</b> is available <a href="images/STARS2016_poster_abstracts.pdf" target="_blank">here</a>.</p> -->
+
+					 <!-- <p>A full abstract book is available <a href="./images/JL60s_abstbook_online.pdf" target="_blank">here</a>.</p> -->
+
+					  <p>Details about the conference excursion on Wednesday afternoon will be posted here soon.<!--can be found <a href="./excursion.html">here</a>.</p> -->
+
+					  <p>Below is a hint of the conference programme.</p>
+
+
+					  <h3><b>Monday</b></h3>
+					  <p><b>09:30-09:40 </b> First Awesome speaker<br>
+					  Welcome address
+					  </p>
+
+					  <p><b>04:30-05:00 </b> Last Awesome speaker<br>
+					  The life and good deeds of John Lattanzio
+					  </p>
+
+		<!--			  <p><b>09:40-10:10 </b> bla bla <br>
+					  <a href="http://www.star.uclan.ac.uk/stars2016/slides/Breger.pdf" target="_blank">The many faces of Donald Wayne Kurtz [PDF]</a>
+					  </p>
+
+-->
+
+
+
+            <h3><b>Tuesday</b></h3>
+					  <h3><b>Wednesday</b> day off, excursion to be arranged </h3>
+					  <h3><b>Thursday</b></h3>
+						<h3><b>Friday</b></h3>
+
+
+					  <!-- <span class="image fit"><img src="images/new_programme_v1.jpeg" alt="" /></span> -->
+
+					  <!--
+					  <span class="image fit"><img src="images/sunday.jpg" alt="" /></span>
+					  <span class="image fit"><img src="images/monday1.jpg" alt="" /></span>
+					  <span class="image fit"><img src="images/monday2.jpg" alt="" /></span>
+					  <span class="image fit"><img src="images/tuesday.jpg" alt="" /></span>
+					  <span class="image fit"><img src="images/wednesday.jpg" alt="" /></span>
+					  <span class="image fit"><img src="images/thursday1.jpg" alt="" /></span>
+					  <span class="image fit"><img src="images/thursday2.jpg" alt="" /></span>
+					  <span class="image fit"><img src="images/friday.jpg" alt="" /></span>
+					  -->
+
+					</div>
+
+				<!-- Footer -->
 				<footer id="footer">
 					<h2>Get in Touch</h2>
 					<h4>Contact the LOC by email at:</h4>

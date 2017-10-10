@@ -27,13 +27,13 @@
 							<li style="white-space: nowrap;"><a href="https://goo.gl/CbLcW4" class="button" target="_blank">Abstract Submission</a></li>
 						 <li style="white-space: nowrap;"><a href="./registration.html" class="button">Registration</a></li>
 						 <li style="white-space: nowrap;"><a href="./participants.html" class="button">List of Participants</a></li>
-
+						  
 							<li class="opener" style="user-select: none; cursor: pointer; white-space: nowrap;">
 							  <a href="./programme.html" class="button">Programme</a>
 
 							<ul class="" style="user-select: none; display: none; position: absolute;">
 							    <li style="white-space: nowrap;"><a href="./programme.html" style="display: block;">Scientific Programme</a></li>
-							    <li style="white-space: nowrap;"><a href="./excursion.html" style="display: block;">Other Activities</a></li>
+							    <li style="white-space: nowrap;"><a href="./excursion.html" style="display: block;">Excursion</a></li>
 							  </ul></li>
 
 							<li style="white-space: nowrap;"><a href="./dates.html" class="button">Important Dates</a></li>
@@ -51,20 +51,15 @@
 					</header>
 
 					<div id="location" class="box">
-					  <h2>Conference Venue</h2>
+					  <h2>Important dates</h2>
 
-<p><h4>The conference will be held at <a href="https://www.qthotelsandresorts.com/port-douglas/" target="_blank"> <font color="blue"> QT Port Douglas resort.</font></a> <br>
-To benefit from a discount, you need to book directly either by email to <a href="mailto:reservations_qtportdouglas [at] evt.com" rel="nofollow" onclick="this.href='mailto:'+'reservations_qtportdouglas'+'@'+'evt.com'"><font color="blue">reservations_qtportdouglas@evt.com</font></a> or telephone to <font color="blue">+61 7 4099 8900.</font> <br>
+					  <p><h4><b>The conference will be held from 29th October - 4th November 2017<br>
+Registration deadline: As soon as possible!<br>
+Payment deadline: Monday 28th August<br>
+Abstract deadline: Monday 28th Augustt<br>
 <br>
-Make it clear that you are attending the Astronomy Conference at the following rates, including breakfast. <br>
-<br>
-Resort Room Single/Twin share <b>$180</b><br>
-1 Bedroom Villa       <b>$210</b><br>
-2 Bedroom Villa       <b>$360</b><br><h4>
-<br>
-<h2>Transport to and from Cairns Airport</h2>
-The hotel can arrange for transport to and from Cairns airport.  Please let us know the arrival and departure times and flight numbers of your flights into and from Cairns and we shall try to coordinate groups for transport. 
-<!-- Footer -->
+
+				<!-- Footer -->
 				<footer id="footer">
 					<h2>Get in Touch</h2>
 					<h4>Contact the LOC by email at:</h4>

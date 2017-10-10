@@ -27,7 +27,7 @@
 							<li style="white-space: nowrap;"><a href="https://goo.gl/CbLcW4" class="button" target="_blank">Abstract Submission</a></li>
 						 <li style="white-space: nowrap;"><a href="./registration.html" class="button">Registration</a></li>
 						 <li style="white-space: nowrap;"><a href="./participants.html" class="button">List of Participants</a></li>
-
+						  
 							<li class="opener" style="user-select: none; cursor: pointer; white-space: nowrap;">
 							  <a href="./programme.html" class="button">Programme</a>
 
@@ -50,21 +50,30 @@
 						<h4>29th October - 4th November 2017, Port Douglas, Queensland, Australia</h4>
 					</header>
 
-					<div id="location" class="box">
-					  <h2>Conference Venue</h2>
+					<div id="excursion" class="box">
+					  <h3>Social Activities</h3>
 
-<p><h4>The conference will be held at <a href="https://www.qthotelsandresorts.com/port-douglas/" target="_blank"> <font color="blue"> QT Port Douglas resort.</font></a> <br>
-To benefit from a discount, you need to book directly either by email to <a href="mailto:reservations_qtportdouglas [at] evt.com" rel="nofollow" onclick="this.href='mailto:'+'reservations_qtportdouglas'+'@'+'evt.com'"><font color="blue">reservations_qtportdouglas@evt.com</font></a> or telephone to <font color="blue">+61 7 4099 8900.</font> <br>
-<br>
-Make it clear that you are attending the Astronomy Conference at the following rates, including breakfast. <br>
-<br>
-Resort Room Single/Twin share <b>$180</b><br>
-1 Bedroom Villa       <b>$210</b><br>
-2 Bedroom Villa       <b>$360</b><br><h4>
-<br>
-<h2>Transport to and from Cairns Airport</h2>
-The hotel can arrange for transport to and from Cairns airport.  Please let us know the arrival and departure times and flight numbers of your flights into and from Cairns and we shall try to coordinate groups for transport. 
-<!-- Footer -->
+<h2>Sunday 29th October -- Evening Reception</h2>
+<p>Monday 30th October -- Evening Wine Tasting (extra charge)</p>
+<p>Tuesday 31st October -- Evening Beer Tasting by Bridge Road Brewers (extra charge)
+<li><a href="https://bridgeroadbrewers.com.au/" target="_blank">Bridge Road Brewers Beechworth</a></li></p>
+<p>Wednesday 1st November -- Day free for local excursions</p>
+<p>Thursday 2nd November -- Conference Dinner</p>
+<p>Friday 3rd November -- Jeff Lang Evening Concert
+<li>
+We are treated to an evening concert by the famous Australian
+blues and roots musician <a href="https://jefflang.com.au"
+target="_blank">Jeff Lang</a>.  Jeff won ARIA awards for Rolling
+Through This World (Best Blues and Roots album 2002, with Bob
+Brozman), Djan Djan (Best World Music album 2011) and Carried in
+Mind (Best Blues and Roots album 2012).  Rhythms magazine readers
+voted his 1996 album Native Dog Creek, 2005 release You Have To Dig
+Deep To Bury Daddy and the 2006 album Dislocation Blues, in
+collaboration with Chris Whitley, as Best Australian Blues Albums.
+</li>
+</p>
+
+				<!-- Footer -->
 				<footer id="footer">
 					<h2>Get in Touch</h2>
 					<h4>Contact the LOC by email at:</h4>
